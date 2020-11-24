@@ -1,0 +1,6 @@
+901;940;2;Mutualisation expertise IA;25;9100
+901;980;1;Travaux communs en Big Data;25;9300
+102;960;2;Etudes partagees de donnees sismiques;23;9200
+306;960;1;Projet commun d'analyse de donnees volcaniques;33;9200
+306;970;2;Projet analyse genomes;45;9210
+204;950;3;Projet pluridisciplinaire societe et numerique;14;9110

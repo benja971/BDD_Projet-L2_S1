@@ -1,0 +1,4 @@
+1;Internationale
+2;Nationale
+3;Régionale
+4;Institutionnelle

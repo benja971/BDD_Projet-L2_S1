@@ -1,0 +1,7 @@
+10;Geographic Information Retrieval;09/04/1999;3;http://www.GIR99.com;Japon;4
+15;Future Generation Computer Systems;06/10/1999;3;http://www.FGCS99.com;USA;1
+30;Extraction Gestion de la Connaissance;15/05/2000;4;http://www.EGC2000.com;France;2
+35;Intelligent Data Analysis;21/01/2000;4;http://www.IDS2000.com;France;2
+50;INFORSID;15/04/2001;4;http://www.INFORSID2001.com;France;2
+55;Congres Observatoire Hommes Milieux;03/06/2001;3;http://www.OHM2001.com;Cuba;3
+60;Conference on Mobile Data Management;20/06/2001;3;http://www.MDM2001.com;Espagne;1

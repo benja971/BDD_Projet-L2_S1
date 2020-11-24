@@ -1,0 +1,4 @@
+1;Responsable
+2;Responsable Adjoint
+3;Equipier
+4;Invite

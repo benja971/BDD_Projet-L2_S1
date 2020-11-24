@@ -1,0 +1,18 @@
+6020;Systemes embarques;06
+6050;Algorithmes complexes;06
+7030;Traitement d_images;07
+7070;Intelligence artificielle;07
+8040;Energies renouvelables;08
+16010;Chimie de la cellule;16
+18050;Sismologie;18
+19020;Geologie;19
+20050;Analyse moleculaire;20
+21040;Bioinformatique;21
+22060;Sciences de levolution;22
+26090;Neurosciences;26
+37010;Economie durable;37
+38030;Anthropologie;38
+39040;Sociologie moderne;39
+41030;Mathematiques et Education;41
+41050;Mathematiques et environnement;41
+41010;Mathematiques appliquees;41

@@ -1,0 +1,6 @@
+940;9100;SOMEHOW Madison;+12135096995;msomehow@nist.org
+950;9110;GONZALES Tonio;+53712345678;tonio.gonzales@ican.org
+960;9200;BELDAME Coline;0590909090;cbeldame@brgm.fr
+970;9210;KALOUKERA Niels;0590909092;nkaloukera@pasteur.org
+980;9300;BELLIR Charly;+1770123456;cbellir@icra.org
+980;9400;LAVIE Maria;+1770123456;cbellir@icra.org

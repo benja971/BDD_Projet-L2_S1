@@ -1,0 +1,14 @@
+06;Sciences de l_information : fondements de l_informatique, calculs, algorithmes, representations, exploitations;1
+07;Sciences de l_information: signaux, images, langues, automatique, robotique, interactions, systemes integres materiel-logiciel;2
+08;Micro- et nanotechnologies, micro- et nanosystemes, photonique, electronique, electromagnetisme, energie electrique;3
+16;Chimie et vivant;2
+18;Terre et planetes telluriques : structure, histoire, modeles;2
+19;Systeme Terre : enveloppes superficielles;2
+20;Biologie moleculaire et structurale, biochimie;2
+21;Organisation, Expression, Evolution des genomes. Bioinformatique et Biologie des systemes;2
+22;Biologie cellulaire, developpement, evolution-developpement;2
+26;Cerveau, cognition, comportement;2
+37;Economie et gestion;1
+38;Anthropologie et etude comparative des societes contemporaines;1
+39;Espaces, territoires et societes;1
+41;Mathematiques et interactions des mathematiques;1

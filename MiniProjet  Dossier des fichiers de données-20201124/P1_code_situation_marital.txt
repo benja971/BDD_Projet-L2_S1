@@ -1,0 +1,5 @@
+1;Celibataire
+2;Marie
+3;Divorce
+4;Pacse
+5;Veuf

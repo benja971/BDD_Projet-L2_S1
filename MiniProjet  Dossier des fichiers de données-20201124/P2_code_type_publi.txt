@@ -1,0 +1,4 @@
+1;Conference
+2;Revue Internationale
+3;Revue Nationale
+4;Journal
