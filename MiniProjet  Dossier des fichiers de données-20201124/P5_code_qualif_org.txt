@@ -1,3 +1,0 @@
-1;Prive;Organisme relevant exclusivement du Droit Prive 
-2;Prive_SvcePublic;Organisme de Doit Prive assurant une mission de service public
-3;Public;Organisme relevant exclusivement du Droit Public

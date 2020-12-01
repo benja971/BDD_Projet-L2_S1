@@ -1,0 +1,4 @@
+1;Conference
+2;Revue
+3;Journal
+4;Interne

@@ -1,0 +1,10 @@
+100	Madame	LEUROPE	Maddly	0590898989	0590890000	mleurope@assemblee.cee	10
+110	Monsieur	LAFRANCE	Marcel	0590898988	0590890000	mlafrance@assemblee.cee	10
+200	Madame	BELREGION	Colette	0590909090	0590909000	cbelregion@region.gpe	20
+210	Monsieur	KARUKER	Max	0590909092	0590909000	mkaruker@region.gpe	20
+300	Monsieur	BELLO	Charles	0590999999	0590999900	cbello@departement.gpe	30
+400	Madame	LUNION	Marie	0590707072	0590707000	mlunion@unesco.org	40
+500	Monsieur	ORGAN	Wilson	0590777777	0590777700	worgan@onu.org	50
+600	Madame	NORMANE	Lisa	0590666666	0590666600	lnormane@afnor.fr	60
+700	Monsieur	STANELY	Oscar	0590555555	0590555500	ostanely@osi.org	70
+800	Madame	SOCRATE	Odile	0590333333	0590333300	osocrate@medef.fr	80

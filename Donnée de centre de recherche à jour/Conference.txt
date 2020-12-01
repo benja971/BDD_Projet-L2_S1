@@ -1,0 +1,3 @@
+60	Conference on Mobile Data Management	Espagne	35
+10	Geographic Information Retrieval	Japon	25
+30	Extraction Gestion de la Connaissance	France	55

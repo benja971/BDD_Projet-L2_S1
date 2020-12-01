@@ -1,0 +1,8 @@
+10	CEE	30 av Europe 75016 Paris	Public
+20	REGION	rue Quelquepart 97100 Basse-Terre	Public
+30	DEPARTEMENT	rue Ailleurs 97100 Basse-Terre	Public
+40	UNESCO	11 bd du Monde 75008 Paris	Public
+50	ONU	22 av  Mondiale 75006 Paris	Public
+60	AFNOR	9 rue Standard 75005 Paris	Public
+70	OSI	6 av Normale 75009 Paris	Public
+80	MEDEF	av des Entreprises 97122 Baie-Mahault	Prive

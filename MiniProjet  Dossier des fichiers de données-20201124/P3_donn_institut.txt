@@ -1,5 +1,0 @@
-940;National Institute of Standards and Technologie (NIST);USA;Anglais
-950;Instituto Cubano de Antropologia (ICAN);Cuba;Espagnol
-960;Bureau de Recherche Geologiques et Minieres (BRGM);France;Francais
-970;Institut Pasteur;France;Francais
-980;Institut Canadien de Recherche Avancees (ICRA);Canada;Anglais

@@ -1,0 +1,12 @@
+901	projxx	True
+707	projxz	True
+102	projtu	True
+405	projtt	True
+306	projab	True
+901	projab	False
+204	projac	True
+204	projkk	True
+306	projkl	True
+102	projkl	False
+405	projmp	True
+102	projmo	True

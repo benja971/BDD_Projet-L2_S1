@@ -1,3 +1,0 @@
-1;Echange de chercheurs
-2;Echange de donnees
-3;Mutualisation Equipements

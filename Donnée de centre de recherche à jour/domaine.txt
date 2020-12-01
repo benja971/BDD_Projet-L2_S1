@@ -1,0 +1,4 @@
+1013	parallelisme
+1504	reseaux de neuronnes
+3209	traitement images
+1510	techniques apprentissage

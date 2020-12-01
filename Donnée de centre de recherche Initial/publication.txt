@@ -1,0 +1,6 @@
+5	PUBLI_05	15/08/1999	Revue	projxx
+15	PUBLI_15	30/05/2001	Journal	projxz
+25	PUBLI_25	06/10/1999	Conference	projab
+35	PUBLI_35	20/06/2001	Conference	projmo
+45	PUBLI_45	08/11/2000	Journal	projkl
+55	PUBLI_55	15/05/2000	Conference	projxz
