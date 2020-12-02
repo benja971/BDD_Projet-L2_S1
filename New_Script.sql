@@ -128,25 +128,5 @@ code_type_publi INT NOT NULL,
 PRIMARY KEY (publinum,
  code_type_publi) );
 
-ALTER TABLE Membres ADD CONSTRAINT FK_Membres_equipnum FOREIGN KEY (equipnum) REFERENCES Equipes (equipnum);
 
-ALTER TABLE Publications ADD CONSTRAINT FK_Publications_projnom FOREIGN KEY (projnom) REFERENCES Projet (projnom);
-ALTER TABLE Projet ADD CONSTRAINT FK_Projet_domainnum FOREIGN KEY (domainnum) REFERENCES Domaines (domainnum);
-ALTER TABLE Projet ADD CONSTRAINT FK_Projet_persnum FOREIGN KEY (persnum) REFERENCES Membres (persnum);
-ALTER TABLE Contrat ADD CONSTRAINT FK_Contrat_projnom FOREIGN KEY (projnom) REFERENCES Projet (projnom);
-ALTER TABLE Contacts ADD CONSTRAINT FK_Contacts_codorg FOREIGN KEY (codorg) REFERENCES Organisme (codorg);
-ALTER TABLE Conference ADD CONSTRAINT FK_Conference_publinum FOREIGN KEY (publinum) REFERENCES Publications (publinum);
-ALTER TABLE Revue ADD CONSTRAINT FK_Revue_publinum FOREIGN KEY (publinum) REFERENCES Publications (publinum);
-ALTER TABLE Journal ADD CONSTRAINT FK_Journal_publinum FOREIGN KEY (publinum) REFERENCES Publications (publinum);
-ALTER TABLE Auteurs ADD CONSTRAINT FK_Auteurs_persnum FOREIGN KEY (persnum) REFERENCES Membres (persnum);
-ALTER TABLE Auteurs ADD CONSTRAINT FK_Auteurs_publinum FOREIGN KEY (publinum) REFERENCES Publications (publinum);
-ALTER TABLE Financement ADD CONSTRAINT FK_Financement_contnum FOREIGN KEY (contnum) REFERENCES Contrat (contnum);
-ALTER TABLE Financement ADD CONSTRAINT FK_Financement_codorg FOREIGN KEY (codorg) REFERENCES Organisme (codorg);
-ALTER TABLE ParticipProj ADD CONSTRAINT FK_ParticipProj_persnum FOREIGN KEY (persnum) REFERENCES Membres (persnum);
-ALTER TABLE ParticipProj ADD CONSTRAINT FK_ParticipProj_projnom FOREIGN KEY (projnom) REFERENCES Projet (projnom);
-ALTER TABLE Dev_Proj ADD CONSTRAINT FK_Dev_Proj_equipnum FOREIGN KEY (equipnum) REFERENCES Equipes (equipnum);
-ALTER TABLE Dev_Proj ADD CONSTRAINT FK_Dev_Proj_projnom FOREIGN KEY (projnom) REFERENCES Projet (projnom);
-ALTER TABLE ContraSuivi ADD CONSTRAINT FK_ContraSuivi_contnum FOREIGN KEY (contnum) REFERENCES Contrat (contnum);
-ALTER TABLE ContraSuivi ADD CONSTRAINT FK_ContraSuivi_idcontact FOREIGN KEY (idcontact) REFERENCES Contacts (idcontact);
-ALTER TABLE publiType ADD CONSTRAINT FK_publiType_publinum FOREIGN KEY (publinum) REFERENCES Publications (publinum);
-ALTER TABLE publiType ADD CONSTRAINT FK_publiType_code_type_publi FOREIGN KEY (code_type_publi) REFERENCES type_publi (code_type_publi);
+

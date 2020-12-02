@@ -126,7 +126,6 @@ PRIMARY KEY (projnom,
  publinum) );
 
 ALTER TABLE Membres ADD CONSTRAINT FK_Membres_equipnum FOREIGN KEY (equipnum) REFERENCES Equipes (equipnum);
-
 ALTER TABLE Publications ADD CONSTRAINT FK_Publications_projnom FOREIGN KEY (projnom) REFERENCES Projet (projnom);
 ALTER TABLE Projet ADD CONSTRAINT FK_Projet_domainnum FOREIGN KEY (domainnum) REFERENCES Domaines (domainnum);
 ALTER TABLE Projet ADD CONSTRAINT FK_Projet_persnum FOREIGN KEY (persnum) REFERENCES Membres (persnum);
