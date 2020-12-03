@@ -1,2 +1,3 @@
-INSERT INTO publications(publinum, titre, publidate, publitype, projnom) VALUES(31,'PUBLI_31','10/08/2020','interne','projab');
-SELECT* FROM publications;
+SELECT matauteur_, persnom, persprenom, persnum, projnom, nomrevue, titreinterne, ordreauteurinterne
+FROM  membres, publiinterne, revue
+;
