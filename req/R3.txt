@@ -1,0 +1,7 @@
+ contnum | montant | projnom |                nomconf                |  titre   
+---------+---------+---------+---------------------------------------+----------
+     100 |  950000 | projmo  | Conference on Mobile Data Management  | PUBLI_35
+      20 | 1200000 | projxz  | Extraction Gestion de la Connaissance | PUBLI_55
+      50 | 1500000 | projab  | Geographic Information Retrieval      | PUBLI_25
+(3 rows)
+

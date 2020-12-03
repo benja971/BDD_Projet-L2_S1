@@ -1,0 +1,14 @@
+ libelle_type | publinum 
+--------------+----------
+ Conference   |       55
+ Journal      |       45
+ Interne      |       40
+ Conference   |       35
+ Interne      |       30
+ Conference   |       25
+ Interne      |       20
+ Journal      |       15
+ Interne      |       10
+ Revue        |        5
+(10 rows)
+

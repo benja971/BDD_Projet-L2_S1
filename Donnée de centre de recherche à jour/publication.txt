@@ -1,13 +1,13 @@
-5	PUBLI_05	15/08/1999	2	Revue	projxx
-15	PUBLI_15	30/05/2001	3	Journal	projxz
-25	PUBLI_25	06/10/1999	1	Conference	projab
-35	PUBLI_35	20/06/2001	1	Conference	projmo
-45	PUBLI_45	08/11/2000	3	Journal	projkl
-55	PUBLI_55	15/05/2000	1	Conference	projxz
-30	PUBLI_30	06/10/2002	4	Interne	projab
-31	PUBLI_31	06/10/2002	4	Interne	projab
-32	PUBLI_32	06/10/2002	4	Interne	projab
-40	PUBLI_40	20/06/2003	2	Revue	projkk
-10	PUBLI_10	15/08/2003	1	Conference	projxz
-11	PUBLI_10	15/08/2003	2	Revue	projxz
-20	PUBLI_20	30/05/2004	4	Interne	projxx
+5;PUBLI_05;15/08/1999;Revue;2;projxx
+15;PUBLI_15;30/05/2001;Journal;3;projxz
+25;PUBLI_25;06/10/1999;Conference;1;projab
+35;PUBLI_35;20/06/2001;Conference;1;projmo
+45;PUBLI_45;08/11/2000;Journal;3;projkl
+55;PUBLI_55;15/05/2000;Conference;1;projxz
+30;PUBLI_30;06/10/2002;Interne;4;projab
+31;PUBLI_31;06/10/2002;Interne;4;projab
+32;PUBLI_32;06/10/2002;Interne;4;projab
+40;PUBLI_40;20/06/2003;Revue;2;projkk
+10;PUBLI_10;15/08/2003;Conference;1;projxz
+11;PUBLI_10;15/08/2003;Revue;2;projxz
+20;PUBLI_20;30/05/2004;Interne;4;projxx

@@ -1,0 +1,5 @@
+ matriculauteur | persnom | persprenom | equipnum | projnom |      nomrevue       |  titre   | numordre 
+----------------+---------+------------+----------+---------+---------------------+----------+----------
+             43 | dupont  | tony       |      901 | projxx  | ACS Central Science | PUBLI_05 |        1
+(1 row)
+

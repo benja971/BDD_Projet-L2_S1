@@ -1,4 +1,7 @@
-projab	30	45	1
-projab	31	36	2
-projab	32	23	3
-projxx	20	10	1
+45;30;PUBLI_30;1;06/10/2002;projab
+36;30;PUBLI_30;2;06/10/2002;projab
+23;30;PUBLI_30;3;06/10/2002;projab
+28;40;PUBLI_40;1;20/06/2003;projkk
+77;10;PUBLI_10;1;15/08/2003;projxz
+87;10;PUBLI_10;2;15/08/2003;projxz
+43;20;PUBLI_20;1;30/05/2004;projxx

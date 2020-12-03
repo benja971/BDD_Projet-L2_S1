@@ -1,0 +1,9 @@
+ projnom | equipnum | publinum |  titre   
+---------+----------+----------+----------
+ projxz  |      707 |       10 | PUBLI_10
+ projxx  |      901 |       20 | PUBLI_20
+ projab  |      306 |       30 | PUBLI_30
+ projab  |      901 |       30 | PUBLI_30
+ projkk  |      204 |       40 | PUBLI_40
+(5 rows)
+

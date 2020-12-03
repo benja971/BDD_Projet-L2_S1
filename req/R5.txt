@@ -1,0 +1,6 @@
+ nomjournal  |                 catjournal                  | publinum 
+-------------+---------------------------------------------+----------
+ Mensuel     | International Journal of Image and Graphics |       45
+ Trimestriel | Pour la science                             |       15
+(2 rows)
+
